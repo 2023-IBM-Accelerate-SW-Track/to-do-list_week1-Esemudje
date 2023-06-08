@@ -22,7 +22,7 @@ export default class About extends Component {
       <div className="centered">
         <div className="name_title">Jay Esemudje</div>
         <div className="brief_description">
-          Hi! I'm Jay, a rising junior at Duke University, studying Electrical and Computer Engineering with a finance minor. I'm working to understand and apply the engineering principles I learn within the financial sphere. When I'm not working, I enjoy watching anime and finding new recipes that I'll likely never get around to making. Fun fact: I was born in Maryland but I grew up in Lagos, Nigeria.
+          Hi! I'm Jay, a rising junior at Duke University, studying Electrical and Computer Engineering with a finance minor. I'm working to understand and apply the engineering principles I learn to problems within the financial sphere. When I'm not working, I enjoy watching anime and finding new recipes that I'll likely never get around to making. Fun fact: I was born in Maryland but I grew up in Lagos, Nigeria.
         </div>
       </div>
     </div>
